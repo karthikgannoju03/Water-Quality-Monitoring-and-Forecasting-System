@@ -91,10 +91,3 @@ This system leverages Machine Learning to monitor and forecast water quality by 
 ---
 
 *For questions or support, please open an [issue](https://github.com/karthikgannoju03/Water-Quality-Monitoring-and-Forecasting-System/issues) on the repository.*
-
-Instructions:
-
-* Replace <repository_url> with your actual GitHub repository URL.
-* Save the above content as README.md in your project root before pushing to GitHub.
-
-This file provides a professional appearance, clear organization, key badges, and easy-to-follow instructions![{'index': 0}]
